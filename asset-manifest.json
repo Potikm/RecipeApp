@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RecipeApp/static/css/main.4a24f5b3.css",
+    "main.js": "/RecipeApp/static/js/main.f86cb743.js",
+    "index.html": "/RecipeApp/index.html",
+    "main.4a24f5b3.css.map": "/RecipeApp/static/css/main.4a24f5b3.css.map",
+    "main.f86cb743.js.map": "/RecipeApp/static/js/main.f86cb743.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a24f5b3.css",
+    "static/js/main.f86cb743.js"
+  ]
+}
