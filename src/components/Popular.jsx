@@ -37,11 +37,12 @@ function Popular() {
   return (
     <div>
       <h3 className='header'>Popular Picks</h3>
+      
        <Splide options={{perPage: 4, arrows: false, pagination: false, drag: 'free'}}>  
       {popular.map((recipe, index) => {
         return(
           <SplideSlide >
-           
+            
             <Link to={'/recipe/'+recipe.id}>
             <Card key={recipe.id} recipe={recipe} />
             </Link>
